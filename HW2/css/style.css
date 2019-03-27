@@ -1,0 +1,58 @@
+body{ 
+      font-family: sans-serif;
+      background-image:url(../images/blog.jpg);
+      background-origin: border-box;
+      background-repeat: repeat-x;
+      font-size: 100%;
+    
+  
+}
+ 
+h1{
+   color: #111011;    
+   font-family:serif;
+   font-size: 3em; 
+   font-style: italic;
+   
+}
+h2{
+    font-family:cursive;
+    font-style: oblique;
+    background-color: blueviolet;
+    font-size: 200%;
+    color: #f2eaf4;
+}
+
+
+
+h3{
+    font-family:monospace
+   
+    
+}
+
+i{
+    font-size: 2em;
+}
+
+ul{
+    color: ##2e243a; 
+    font-size: 150%;
+}  
+  
+foot{
+    text-align: center ;
+}
+
+hr{
+   text-decoration: overline; 
+}
+
+form{
+    font-size: 150%;
+    font-style: normal;
+    font-variant-caps: titling-caps;
+        
+}
+
+ 
